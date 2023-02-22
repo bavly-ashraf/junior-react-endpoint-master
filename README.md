@@ -1,3 +1,5 @@
+##### Credits to : Scandiweb Back-End Development Team #####
+
 # GraphQL endpoint for Junior Developer position in Scandiweb
 
 ### Overview
